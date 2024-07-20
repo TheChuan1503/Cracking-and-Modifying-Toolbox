@@ -11,12 +11,13 @@
 - [手动/自动加时](ADDTIME.md)
 - [修改ui](UI.md)
 - [修改/增强功能](MODS.md)
-- [修改应用图标,名字,版本和共存](EDITAPP.md)
 - [修改欲启动的MC包名](INJECTPKG.md)
+- [隐藏的功能](HIDDEN.md)
 ## 修改前准备
 ### *使用软件*
+- Toolbox for Minecraft: PE
+  - [Toolbox 的 GITHUB 页面](https://github.com/githubXiaowangzi/NP-Manager)
 - MT管理器
-  - [MT管理器 的 酷安 页面](https://www.coolapk.com/apk/bin.mt.plus)
   - [MT管理器 官网](https://bbs.binmt.cc/forum-2-1.html)
 - NP管理器
   - [NP管理器 的 GITHUB 页面](https://github.com/githubXiaowangzi/NP-Manager)
