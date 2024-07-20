@@ -16,7 +16,7 @@
 ## 修改前准备
 ### *使用软件*
 - Toolbox for Minecraft: PE
-  - [Toolbox 的 GITHUB 页面](https://github.com/githubXiaowangzi/NP-Manager)
+  - [Toolbox 的 GITHUB 页面](https://github.com/1503Dev/Toolbox-for-Minecraft-PE)
 - MT管理器
   - [MT管理器 官网](https://bbs.binmt.cc/forum-2-1.html)
 - NP管理器
