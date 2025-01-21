@@ -1,3 +1,6 @@
+# 此文档已废弃
+# 此文档已不再适应新内容
+
 ![header](img/header.jpg)
 # **Toolbox for MC: PE 破解&修改**
 ## 简介
